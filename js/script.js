@@ -1,3 +1,6 @@
+function getThreeDayForecast(){
+  
+}
 function actualiser(){
   
   const apiWeather = new API_WEATHER(document.getElementById('city-input').value);
